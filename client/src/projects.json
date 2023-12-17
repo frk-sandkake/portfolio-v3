@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "JS Frameworks, CA",
+    "description": "Happy Shopping - an online shopping website, with ReactTS, Axios, React Router Dom and react-bootstrap",
+    "image": "https://res.cloudinary.com/dmurhab0f/image/upload/v1702557392/Noroff-Projects/js_frameworks_ca-857x689_xyatna.png",
+    "repo": "https://github.com/frk-sandkake/react-ts-happy_shopping",
+    "host": "https://teal-croissant-cedc9a.netlify.app/",
+    "design": ""
+  },
+  {
+    "id": "2",
+    "title": "Semester Project 2",
+    "description": "The Thrift & Share - an online auction site that allows users register their own items to auction off. Built with ViteJS, JavaScript, Axios, Bootstrap",
+    "image": "https://res.cloudinary.com/dmurhab0f/image/upload/v1702821501/Noroff-Projects/sem-proj-2-955x638_avxavl.png",
+    "repo": "https://github.com/frk-sandkake/thrift-share_auction-site",
+    "host": "https://the-thrift-share.netlify.app/",
+    "design": ""
+  },
+  {
+    "id": "3",
+    "title": "Project Exam 2",
+    "description": "Holidaze - an online booking site for venues, with both admin and user profiles. Built with Vite, ReactJWS, React Router, Axios, TailwindCSS, Radix",
+    "image": "",
+    "repo": "https://github.com/frk-sandkake/project-exam-2",
+    "host": "",
+    "design": ""
+  }
+]

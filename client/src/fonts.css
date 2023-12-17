@@ -1,0 +1,14 @@
+/** @format */
+
+@font-face {
+  font-family: "Courier New";
+  src: local("Courier New");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Lucida Sans";
+  src: local("Lucida Sans");
+  font-weight: normal;
+  font-style: normal;
+}

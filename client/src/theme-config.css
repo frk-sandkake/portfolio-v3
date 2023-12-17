@@ -1,0 +1,8 @@
+/** @format */
+@import "./fonts.css";
+
+.radix-themes {
+  --default-font-family: "Menlo", "Consolas (Custom)",
+    "Bitstream Vera Sans Mono", monospace, "Apple Color Emoji", "Segoe UI Emoji";
+  --heading-font-family: "Lucida Sans", sans-serif;
+}
